@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(21, 255, 0, 0.531);
+    
+}
+
+h1{
+    color: rgba(64, 0, 255, 0.645);
+    font-size:18px;
+    margin-top: 4%;
+    font-family: cursive;
+}
+
+label{
+        font-size: 25px;
+        color: rgba(64, 0, 255, 0.645);
+        margin-top: 8%;
+        font-family: cursive;     
+}
+#register{
+       border-radius: 20px;
+       color: rgb(0, 0, 0);
+  }
